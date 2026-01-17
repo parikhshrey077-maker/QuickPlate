@@ -1,5 +1,5 @@
 export const API_BASE_URL = __DEV__
-    ? 'https://major-dolls-sin.loca.lt'
+    ? 'https://quickplate-api-xxxx.onrender.com'
     : 'https://your-production-url.com';
 
 export const API_ENDPOINTS = {
